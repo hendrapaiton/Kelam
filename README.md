@@ -4,14 +4,13 @@ Pengembangan aplikasi grafis interaktif menggunakan Python dengan pendekatan Mod
 
 ### TODO
 
-Langkah-langkah dalam pengembangan ini antara lain
-[ ] Membuat proyek python baru dengan flet
-[ ] Membuat tampilan (view) terlebih dahulu
-[ ] Membuat model dari entitas yang akan dibuat
-[ ] Menautkan model dengan control di view
-[ ] Membuat logika (update) untuk memproses model
-[ ] Menautkan update dengan view secara komprehensif
-[ ] Uji fungsionalitas bekerja tidak hanya pencitraan
+- [x] Membuat proyek python baru dengan flet
+- [x] Membuat tampilan (view) terlebih dahulu
+- [ ] Membuat model dari entitas yang akan dibuat
+- [ ] Menautkan model dengan control di view
+- [ ] Membuat logika (update) untuk memproses model
+- [ ] Menautkan update dengan view secara komprehensif
+- [ ] Uji fungsionalitas bekerja tidak hanya pencitraan
 
 ### TIM
 
