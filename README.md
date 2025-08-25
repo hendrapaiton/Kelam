@@ -8,9 +8,9 @@ Pengembangan aplikasi grafis interaktif menggunakan Python dengan pendekatan Mod
 - [x] Membuat tampilan (view) terlebih dahulu
 - [x] Membuat model dari entitas yang akan dibuat
 - [x] Menautkan model dengan control di view
-- [ ] Membuat logika (update) untuk memproses model
-- [ ] Menautkan update dengan view secara komprehensif
-- [ ] Uji fungsionalitas bekerja tidak hanya pencitraan
+- [x] Membuat logika (update) untuk memproses model
+- [x] Menautkan update dengan view secara komprehensif
+- [x] Uji fungsionalitas bekerja tidak hanya pencitraan
 
 ### TIM
 
