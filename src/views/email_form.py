@@ -13,7 +13,7 @@ def view(model: Email, dispatch):
                 on_change=lambda e: dispatch(
                     Event(AppEvent.VALIDATE_EMAIL, {"value": e.control.value})
                 ),
-                autofocus=True,
+                autofocus=not bool(model.address),
             ),
             ft.Text(
                 value="Email Valid" if model.is_valid else "Email Invalid",
